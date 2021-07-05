@@ -24,10 +24,7 @@ const Wrap = styled.div`
     border-bottom:20px solid red;
     positive:relative;
     z-index:15;
- 
-    &::before{
-      border-bottom:none;
-    }
+  
   }
   
   padding: 0.5rem 0;
